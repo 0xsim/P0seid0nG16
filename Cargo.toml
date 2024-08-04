@@ -1,0 +1,10 @@
+[package]
+name = "PosG16"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bellman = "0.13.1"
+bls12_381 = "0.7.0"
+ff = "0.12.0"
+rand = "0.8.5"
